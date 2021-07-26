@@ -1,0 +1,24 @@
+site_name: Manual do robô locomotiva
+site_author: IFRN Geeks
+
+theme:
+  name: material
+  palette: 
+    primary: green
+  language: pt
+
+nav:
+  - Início: index.md
+  - itens.md
+  - Montagem:
+    - passo-01.md
+    - passo-02.md
+    - passo-03.md
+    - passo-04.md
+    - passo-05.md
+    - passo-06.md
+    - passo-07.md
+  - codigo.md
+  - referencias.md
+
+
