@@ -21,4 +21,9 @@ nav:
   - codigo.md
   - referencias.md
 
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+
 

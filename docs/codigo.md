@@ -1,6 +1,6 @@
 # Código
 
-```cpp
+```cpp linenums="1"
 //Definição dos pinos de controle do motor
 #define M1 9    // Pino_Velocidade 1º Motor ( 0 a 255)_ Porta ATV_A ponte H;
 #define M2 11   //Pino_Velocidade 2º Motor ( 0 a 255) _ Porta ATV_B ponte H;
